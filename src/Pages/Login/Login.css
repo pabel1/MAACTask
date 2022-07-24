@@ -1,0 +1,19 @@
+.login__banner{
+    background: url('../../images/blue-abstract-layered-stripes-background2.png');
+}
+.login__form{
+    background: #fff;
+    width:600px;
+    padding: 50px;
+    margin:150px 0;
+    border-radius: 10px;
+}
+.login__inputs{
+    width: 100%;
+    padding: 10px 5px;
+    border: none;
+    border-bottom: 1px solid #000;
+}
+.login__inputs:focus{
+    outline: none;
+}
